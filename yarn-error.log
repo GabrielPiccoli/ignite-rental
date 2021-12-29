@@ -43,7 +43,6 @@ npm manifest:
       "eslint-plugin-import-helpers": "^1.2.0",
       "eslint-plugin-prettier": "^4.0.0",
       "prettier": "^2.5.1",
-      "ts-node-dev": "^1.1.8",
       "typescript": "^4.5.3"
     },
     "dependencies": {
